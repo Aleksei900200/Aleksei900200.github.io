@@ -108,7 +108,7 @@ section {
   font-style: italic;
 }
 .first p img {
-  margin-bottom: -12px;
+  margin-bottom: -10px;
 }
 .second {
   flex-direction: row;
@@ -343,7 +343,7 @@ legend {
   }
   .first p img {
     width: 25%;
-    margin-bottom: -5px;
+    margin-bottom: -8px;
   }
   .second {
     flex-direction: column;
@@ -424,7 +424,7 @@ legend {
   }
   .first p img {
     width: 25%;
-    margin-bottom: -5px;
+    margin-bottom: -8px;
   }
   .second {
     flex-direction: column;
